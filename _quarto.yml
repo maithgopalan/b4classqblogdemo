@@ -4,15 +4,14 @@ project:
 
 website:
   description: "A blog built with Quarto"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  site-url: https://maithgopalan.github.io/b4classqblogdemo/ # you must change this appropriately for RSS feeds to work properly
   title: "b4classqblogdemo"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/maithgopalan
+      
 format:
   html:
     theme:
