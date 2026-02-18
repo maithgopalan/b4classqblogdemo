@@ -1,0 +1,8 @@
+---
+title: "my-first-analysis"
+author: "Maithreyi Gopalan"
+date: "2026-02-18"
+categories: [news]
+---
+
+## Intro
